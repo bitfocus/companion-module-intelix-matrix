@@ -139,10 +139,10 @@ class instance extends instance_skel {
 		this.setPresetDefinitions(presets)
 	}
 
-	actions(system) {
+	actions() {
 		this.setupChoices()
 
-		this.system.emit('instance_actions', this.id, {
+		this.setActions({
 			routeAll: {
 				label: 'Route input x to all video outputs',
 				options: [
