@@ -1,22 +1,30 @@
 {
-  "name": "intelix-matrix",
-  "version": "1.0.1",
-  "api_version": "1.0.0",
-  "manufacturer": "Intelix",
-  "product": "INT-HDX",
-  "shortname": "intelix",
-  "description": "Control Intelix matrix INT-44HDX, INT-66HDX, or INT-88HDX.",
-  "keywords": [
-    "Hardware",
-    "Matrix"
-  ],
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "zerbzman <zerbzman@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "node-fetch": "^2.6.7"
-  }
+	"name": "intelix-matrix",
+	"version": "1.0.1",
+	"api_version": "1.0.0",
+	"manufacturer": "Intelix",
+	"product": "INT-HDX",
+	"shortname": "intelix",
+	"description": "Control Intelix matrix INT-44HDX, INT-66HDX, or INT-88HDX.",
+	"keywords": [
+		"Hardware",
+		"Matrix"
+	],
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "zerbzman <zerbzman@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"node-fetch": "^2.6.7"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-intelix-matrix#readme",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-intelix-matrix/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-intelix-matrix.git"
+	}
 }
