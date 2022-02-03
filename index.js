@@ -198,7 +198,7 @@ class instance extends instance_skel {
 
 		switch (action.action) {
 			case 'routeAll':
-				this.parseVariables(action.options.id_inputAll, (value) => {
+				this.parseVariables(action.options.id_inputALL, (value) => {
 					cmd = `${value}All.`
 				})
 				break
