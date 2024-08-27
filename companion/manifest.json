@@ -1,5 +1,5 @@
 {
-	"id": "companion-module-intelix-matrix",
+	"id": "intelix-matrix",
 	"name": "intelix-matrix",
 	"shortname": "intelix",
 	"description": "Control Intelix matrix INT-44HDX, INT-66HDX, or INT-88HDX.",
@@ -19,7 +19,7 @@
 		"apiVersion": "0.0.0",
 		"entrypoint": "../main.js"
 	},
-	"legacyIds": [],
+	"legacyIds": ["companion-module-intelix-matrix"],
 	"manufacturer": "Intelix",
 	"products": ["INT-44HDX", "INT-66HDX", "INT-88HDX"],
 	"keywords": [
