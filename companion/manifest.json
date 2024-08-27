@@ -3,7 +3,7 @@
 	"name": "intelix-matrix",
 	"shortname": "intelix",
 	"description": "Control Intelix matrix INT-44HDX, INT-66HDX, or INT-88HDX.",
-	"version": "2.0.2",
+	"version": "0.0.0",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-intelix-matrix.git",
 	"bugs": "https://github.com/bitfocus/companion-module-intelix-matrix/issues",
